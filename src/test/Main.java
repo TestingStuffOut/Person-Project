@@ -11,6 +11,7 @@ public class Main {
 		persons.add(new Male("Brian", 28));
 		persons.add(new Female("Sarah", 35));
 		persons.add(new Female("Tone", 32));
+		persons.add(new Dwarf("Gimli", 150));
 		
 		personInformation(persons);
 
